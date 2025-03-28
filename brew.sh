@@ -108,6 +108,7 @@ brew install --cask slack
 brew install --cask arc
 brew install --cask visual-studio-code
 brew install --cask nordvpn
+brew install --cask discord
 
 # Remove outdated versions from the cellar.
 brew cleanup
