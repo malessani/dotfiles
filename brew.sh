@@ -97,5 +97,9 @@ brew install git
 #brew install vbindiff
 #brew install zopfli
 
+brew cask install docker
+brew cask install fork
+brew cask install warp
+
 # Remove outdated versions from the cellar.
 brew cleanup
