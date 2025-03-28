@@ -98,6 +98,8 @@ brew install git
 #brew install zopfli
 
 brew install devspace
+brew install ngrok/ngrok/ngrok
+brew install minikube
 
 brew install --cask docker
 brew install --cask fork
