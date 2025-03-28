@@ -102,6 +102,7 @@ brew install --cask fork
 brew install --cask warp
 brew install --cask slack
 brew install --cask arc
+brew install --cask nordvpn
 
 # Remove outdated versions from the cellar.
 brew cleanup
