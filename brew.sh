@@ -97,11 +97,14 @@ brew install git
 #brew install vbindiff
 #brew install zopfli
 
+brew install devspace
+
 brew install --cask docker
 brew install --cask fork
 brew install --cask warp
 brew install --cask slack
 brew install --cask arc
+brew install --cask visual-studio-code
 brew install --cask nordvpn
 
 # Remove outdated versions from the cellar.
