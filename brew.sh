@@ -101,6 +101,9 @@ brew install git
 brew install devspace
 brew install ngrok/ngrok/ngrok
 brew install minikube
+brew install circleci
+brew install npm
+npm install -g pnpm
 
 brew install --cask docker
 brew install --cask fork
