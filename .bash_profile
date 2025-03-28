@@ -51,3 +51,6 @@ fi;
 
 #devspace configuration
 eval $(minikube -p minikube docker-env)
+
+# To sign commit with gpg
+export GPG_TTY=$(tty)
